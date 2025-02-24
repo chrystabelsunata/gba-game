@@ -15,7 +15,13 @@ This project was created as an assignment for CS 2110 - Computer Organization (S
 - Press **'Backspace'** to restart the game anytime.
 
 ## Gamplay Demo
-insert gif here
+### Win Scenario
+Mario reaches the gold coin before the time runs out.
+![Win Scenario](assets/player-win.gif)
+
+### Lose Scenario
+Mario collides with the turtle shell or time runs out.
+![Lose Scenario](assets/player-lose.gif)
 
 ## Technologies Used
 - **C**: Progamming language
