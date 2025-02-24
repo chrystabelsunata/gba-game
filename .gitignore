@@ -1,0 +1,9 @@
+*.o
+*.log
+*.pdf
+*.elf
+*.txt
+*.tar.gz
+*.gba
+.DS_Store
+.vscode/
