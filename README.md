@@ -14,3 +14,10 @@ This project was created as an assignment for CS 2110 - Computer Organization (S
 - Control **Mario**'s movement using the arrow keys: **up, down, left, right.**
 - Press **'Backspace'** to restart the game anytime.
 
+## Gamplay Demo
+insert gif here
+
+## Technologies Used
+- **C**: Progamming language
+- **mGBA**: Gameboy Advance emulator used for testing and gameplay
+- **Docker**: Development environment
