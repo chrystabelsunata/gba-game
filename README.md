@@ -1,5 +1,5 @@
 ## Gameboy Advance Game
-This project was created as an assignment for CS 2110 - Computer Organization (Spring 2023) at Georgia Tech.
+This project was created as an assignment for **CS 2110 - Computer Organization** (Spring 2023) at Georgia Tech.
 
 ## How the Game Works 
 - The goal is for the player (**Mario**) to move from one end of the screen to the other to reach the gold coin.
