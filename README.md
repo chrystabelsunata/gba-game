@@ -14,7 +14,7 @@ This project was created as an assignment for **CS 2110 - Computer Organization*
 - Control **Mario**'s movement using the arrow keys: **up, down, left, right.**
 - Press **'Backspace'** to restart the game anytime.
 
-## Gamplay Demo
+## Gameplay Demo
 ### Win Scenario
 Mario reaches the gold coin before the time runs out.
 ![Win Scenario](assets/player-win.gif)
